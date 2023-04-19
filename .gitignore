@@ -1,7 +1,0 @@
-node_modules
-
-# aws lambda 배포용 zip파일
-backend/아카이브.zip
-
-# dotenv environment variable files
-.env
