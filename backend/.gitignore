@@ -9,3 +9,6 @@ jspm_packages
 
 #Environment Variables
 .env
+
+# aws lambda 배포용 압축파일
+아카이브.zip
