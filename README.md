@@ -25,6 +25,7 @@ https://fortune-teller-wisdom.pages.dev/
 ### API
 - openAI의 "gpt-3.5-turbo"API
 
+<br/>
 
 ## 배포
 #### 프론트엔드
