@@ -12,18 +12,18 @@ https://fortune-teller-wisdom.pages.dev/
 
 
 # 사용 기술
-## Frontend
+### Frontend
 - html 
 - css 
 - javascript 
 
-## Backend
+### Backend
 - node.js
 - Express
 - serverless-http
 
-## API
-openAI의 "gpt-3.5-turbo"API
+### API
+- openAI의 "gpt-3.5-turbo"API
 
 
 ## 배포
