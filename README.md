@@ -12,7 +12,6 @@ https://fortune-teller-wisdom.pages.dev/
 
 
 # 사용 기술
-
 ## Frontend
 - html 
 - css 
